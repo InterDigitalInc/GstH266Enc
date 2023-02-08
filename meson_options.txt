@@ -1,0 +1,3 @@
+option('ENCODER_TYPE', type : 'string', value : 'VVENC', description : 'switch to different VVC encoder implementations (e.g. VVENC or UVG266)')
+option('ENCODER_LIB_PATH', type : 'string', value : '../../vvenc-1.4.0/lib/release-shared/', description : 'Path to the directory that contains the encoder .lib file')
+option('ENCODER_INCLUDE_PATH', type : 'string', value : '../../vvenc-1.4.0/include/', description : 'Path to the encoder include directory')
