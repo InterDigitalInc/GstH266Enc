@@ -183,6 +183,10 @@ Note that in the above case the GST plugin is configured to use the VVenC encode
 ```
 
 
+## License
+GstH266Enc is licensed under the BSD 3-Clause Clear License
+
+
 
 
 
