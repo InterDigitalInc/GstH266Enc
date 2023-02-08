@@ -186,6 +186,19 @@ Note that in the above case the GST plugin is configured to use the VVenC encode
 ## License
 GstH266Enc is licensed under the BSD 3-Clause Clear License
 
+## Citations
+If you use this project, please cite the relevant original publications, and cite this project as:
+
+```
+@inproceedings{rajjvaed2022gsth266enc,
+  title={GSTH266enc: A GStreamer Plugin for VVC Encoder},
+  author={Rajjvaed, Advaiit and Puri, Saurabh and Bhullar, Gurdeep and Martin-Cocher, Ga{\"e}lle},
+  booktitle={Proceedings of the 4th ACM International Conference on Multimedia in Asia},
+  pages={1--3},
+  year={2022}
+}
+```
+
 
 
 
